@@ -37,7 +37,7 @@ To run the portfolio locally:
 
 2. **Open the `index.html` file in a web browser**
 
-## 📦 `Tools` & Extensions Recommended
+## 📦 `Tools` & `Extensions` Recommended
 
 👨‍💻 Code Editor: Visual Studio Code
 
@@ -53,7 +53,7 @@ To run the portfolio locally:
 
 ![Screenshot of homepage](https://placehold.co/1200x800)
 
-## License
+## `License`
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
