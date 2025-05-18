@@ -53,7 +53,7 @@ To run the portfolio locally:
 
 ## 📄 Screenshots
 
-![Screenshot of homepage](https://placehold.co/1200x800)
+![Screenshot of homepage]([https://placehold.co/1200x800](https://www.google.com/imgres?q=website%20page&imgurl=https%3A%2F%2Fknowledge.hubspot.com%2Fhs-fs%2Fhubfs%2FTelerik.webp%3Fwidth%3D650%26height%3D409%26name%3DTelerik.webp&imgrefurl=https%3A%2F%2Fblog.hubspot.com%2Fblog%2Ftabid%2F6307%2Fbid%2F34006%2F15-examples-of-brilliant-homepage-design.aspx&docid=o6gKL8G6ZtkP5M&tbnid=z0O4QRZI1vy2tM&vet=12ahUKEwidr42T3q2NAxXEUGcHHc2YD4EQM3oECB4QAA..i&w=650&h=409&hcb=2&ved=2ahUKEwidr42T3q2NAxXEUGcHHc2YD4EQM3oECB4QAA))
 
 ## License
 
