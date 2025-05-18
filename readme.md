@@ -34,10 +34,8 @@ To run the portfolio locally:
 
    ```
 
-## How to Run
 
-1. Clone the repository
-2. Open the `index.html` file in a web browser
+2. **Open the `index.html` file in a web browser**
 
 ## 📦 Tools & Extensions Recommended
 
