@@ -37,7 +37,7 @@ To run the portfolio locally:
 
 2. **Open the `index.html` file in a web browser**
 
-## 📦 Tools & Extensions Recommended
+## 📦 `Tools` & Extensions Recommended
 
 👨‍💻 Code Editor: Visual Studio Code
 
