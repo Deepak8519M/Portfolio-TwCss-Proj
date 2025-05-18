@@ -4,7 +4,7 @@ A modern, responsive personal portfolio website built using **HTML5** and **Tail
 
 ---
 
-## ✨ Featuress
+## ✨ Features
 
 - 💻 **Fully Responsive Design** — Works across devices (mobile, tablet, desktop)
 - 🧭 **Interactive Navigation** — Simple and intuitive layout
