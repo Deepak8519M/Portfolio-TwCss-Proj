@@ -1,10 +1,10 @@
-# 🌐 Portfolio Website
+# 🌐 `Portfolio Website`
 
 A modern, responsive personal portfolio website built using **HTML5** and **Tailwind CSS**. It features clean design, smooth responsiveness, and showcases personal projects with descriptions and images.
 
 ---
 
-## ✨ Features
+## ✨ `Features`
 
 - 💻 **Fully Responsive Design** — Works across devices (mobile, tablet, desktop)
 - 🧭 **Interactive Navigation** — Simple and intuitive layout
@@ -13,7 +13,7 @@ A modern, responsive personal portfolio website built using **HTML5** and **Tail
 
 ---
 
-## 🛠 Technologies Used
+## 🛠 `Technologies Used`
 
 - **HTML5**
 - **Tailwind CSS v4+**
@@ -21,7 +21,7 @@ A modern, responsive personal portfolio website built using **HTML5** and **Tail
 
 ---
 
-## 🚀 Getting Started
+## 🚀 `Getting Started`
 
 To run the portfolio locally:
 
@@ -34,12 +34,10 @@ To run the portfolio locally:
 
    ```
 
-## How to Run
 
-1. Clone the repository
-2. Open the `index.html` file in a web browser
+2. **Open the `index.html` file in a web browser**
 
-## 📦 Tools & Extensions Recommended
+## 📦 `Tools` & `Extensions` Recommended
 
 👨‍💻 Code Editor: Visual Studio Code
 
@@ -51,15 +49,15 @@ To run the portfolio locally:
 
 📦 Tailwind CLI v4+: Used for utility-first CSS build.
 
-## 📄 Screenshots
+## 📄 `Screenshots`
 
 ![Screenshot of homepage](https://placehold.co/1200x800)
 
-## License
+## `License`
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## 🙏 Acknowledgments
+## 🙏 `Acknowledgments`
 
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Placehold](https://placehold.co/) for the placeholder images
