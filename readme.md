@@ -51,7 +51,7 @@ To run the portfolio locally:
 
 ## 📄 `Screenshots`
 
-![Screenshot of homepage]([https://placehold.co/1200x800](https://placehold.co/600x400/orange/white))
+![Screenshot of homepage]((https://placehold.co/600x400/orange/white))
 
 ## `License`
 
