@@ -1,4 +1,4 @@
-# 🌐 Portfolio Website
+# 🌐 `Portfolio Website`
 
 A modern, responsive personal portfolio website built using **HTML5** and **Tailwind CSS**. It features clean design, smooth responsiveness, and showcases personal projects with descriptions and images.
 
@@ -21,7 +21,7 @@ A modern, responsive personal portfolio website built using **HTML5** and **Tail
 
 ---
 
-## 🚀 Getting Started
+## 🚀 `Getting Started`
 
 To run the portfolio locally:
 
@@ -49,7 +49,7 @@ To run the portfolio locally:
 
 📦 Tailwind CLI v4+: Used for utility-first CSS build.
 
-## `📄 Screenshots`
+## 📄 `Screenshots`
 
 ![Screenshot of homepage](https://placehold.co/1200x800)
 
@@ -57,7 +57,7 @@ To run the portfolio locally:
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## `🙏 Acknowledgments`
+## 🙏 `Acknowledgments`
 
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Placehold](https://placehold.co/) for the placeholder images
