@@ -33,12 +33,11 @@ To run the portfolio locally:
    cd your-repo-name
    ```
 
-
 2. **Open the `index.html` file in a web browser**
 
 ## 📦 `Tools` & `Extensions` Recommended
 
-👨‍💻 Code Editor: Visual Studio Code
+👨‍💻 Code Editor: Visual Studio Code Editor
 
 🎨 Tailwind CSS IntelliSense: `Autocompletion` and `hover preview` of Tailwind classes.
 
