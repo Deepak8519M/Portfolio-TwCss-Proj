@@ -49,6 +49,8 @@ To run the portfolio locally:
 
 📦 Tailwind CLI v4+: Used for utility-first CSS build.
 
+❄️ Post Css : Extension for tailwincdCss
+
 ## 📄 `Screenshots`
 
 ![Screenshot of homepage](https://placehold.co/1200x800)
