@@ -31,7 +31,6 @@ To run the portfolio locally:
    git clone https://github.com/yourusername/your-repo-name.git
 
    cd your-repo-name
-
    ```
 
 
@@ -51,7 +50,7 @@ To run the portfolio locally:
 
 ❄️ Post Css : Extension for tailwincdCss
 
-## 📄 `Screenshots`
+## 📄 `Screenshot`
 
 ![Screenshot of homepage](https://placehold.co/1200x800)
 
