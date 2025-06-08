@@ -6,10 +6,10 @@ A modern, responsive personal portfolio website built using **HTML5** and **Tail
 
 ## ✨ `Features`
 
-- 💻 **Fully Responsive Design** — Works across devices (mobile, tablet, desktop)
+- 💻 **Fully Responsive Design** — Works across devices `(mobile, tablet, desktop)`
 - 🧭 **Interactive Navigation** — Simple and intuitive layout
-- 🖼 **Project Showcase** — Highlight your work with descriptions and visuals
-- 📬 **Contact Section** — Reach out via clearly visible contact area (no JS form logic)
+- 🖼 **Project Showcase** — Highlight your work with `descriptions` and `visuals`
+- 📬 **Contact Section** — Reach out via clearly visible contact area `(no JS form logic)`
 
 ---
 
@@ -17,7 +17,7 @@ A modern, responsive personal portfolio website built using **HTML5** and **Tail
 
 - **HTML5**
 - **Tailwind CSS v4+**
-- **Custom CSS** (for additional styling)
+- **Custom CSS** `(for additional styling)`
 
 ---
 
