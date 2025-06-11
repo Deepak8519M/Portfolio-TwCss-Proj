@@ -7,7 +7,7 @@ A modern, responsive personal portfolio website built using **HTML5** and **Tail
 ## ✨ `Features`
 
 - 💻 **Fully Responsive Design** — Works across devices `(mobile, tablet, desktop)`
-- 🧭 **Interactive Navigation** — Simple and intuitive layout
+- 🧭 **Interactive Navigation** — `Simple` and `intuitive layout`
 - 🖼 **Project Showcase** — Highlight your work with `descriptions` and `visuals`
 - 📬 **Contact Section** — Reach out via clearly visible contact area `(no JS form logic)`
 
@@ -40,15 +40,15 @@ To run the portfolio locally:
 
 👨‍💻 Code Editor: Visual Studio Code
 
-🎨 Tailwind CSS IntelliSense: Autocompletion and hover preview of Tailwind classes.
+🎨 Tailwind CSS IntelliSense: `Autocompletion` and `hover preview` of Tailwind classes.
 
-🧼 Prettier: Code formatter for consistent formatting.
+🧼 Prettier: `Code formatter` for consistent formatting.
 
-🌐 Live Server: Auto-reload browser on file save.
+🌐 Live Server: `Auto-reload browser` on file save.
 
-📦 Tailwind CLI v4+: Used for utility-first CSS build.
+📦 Tailwind CLI v4+: Used for `utility-first` CSS build.
 
-❄️ Post Css : Extension for tailwincdCss
+❄️ Post Css : Extension for `tailwincdCss`
 
 ## 📄 `Screenshot`
 
