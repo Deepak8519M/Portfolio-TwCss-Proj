@@ -1,6 +1,6 @@
 # 🌐 `Portfolio Website`
 
-A modern, responsive personal portfolio website built using **HTML5** and **Tailwind CSS**. It features clean design, smooth responsiveness, and showcases personal projects with descriptions and images.
+A modern, responsive personal portfolio website built using **`HTML5`** and **`Tailwind CSS`**. It features clean design, smooth responsiveness, and showcases personal projects with descriptions and images.
 
 ---
 
