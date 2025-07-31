@@ -13,9 +13,11 @@
           class="border-gray-600 border rounded-full flex p-[1px] backdrop-blur-lg"
         >
           <a href="#" class="px-4 py-1 text-neutral-200">Home</a>
-          <a href="#" class="px-4 py-1 text-neutral-200">Projects</a>
-          <a href="#" class="px-4 py-1 text-neutral-200">About</a>
-          <a href="#" class="px-4 py-1 bg-gray-200 rounded-full">Contact</a>
+          <a href="#projects" class="px-4 py-1 text-neutral-200">Projects</a>
+          <a href="#about" class="px-4 py-1 text-neutral-200">About</a>
+          <a href="#contact" class="px-4 py-1 bg-gray-200 rounded-full"
+            >Contact</a
+          >
         </div>
       </div>
     </nav>
@@ -51,11 +53,12 @@
       </div>
 
       <div class="flex items-center justify-center gap-3 text-sm">
-        <button
+        <a
+          href="#about"
           class="cursor-pointer px-4 py-2 border-2 rounded-lg border-neutral-500 text-neutral-200"
         >
           Explore my work
-        </button>
+        </a>
         <button
           class="cursor-pointer px-4 py-2 rounded-lg bg-neutral-200 text-black"
         >
@@ -64,7 +67,7 @@
       </div>
     </section>
 
-    <section class="max-w-6xl mx-auto px-4">
+    <section class="max-w-6xl mx-auto px-4" id="projects">
       <div class="text-center space-y-3">
         <h3
           class="bg-gradient-to-r from-emerald-200 inline to-cyan-500 bg-clip-text text-transparent uppercase text-sm font-bold"
@@ -548,7 +551,10 @@
       </main>
     </section>
 
-    <footer class="max-w-6xl mx-auto px-12 py-5 border-t border-gray-400">
+    <footer
+      id="contact"
+      class="max-w-6xl mx-auto px-12 py-5 border-t border-gray-400"
+    >
       <main class="flex justify-between text-gray-300 text-sm">
         <p>&copy; 2025. All rights reserved</p>
         <ul class="flex items-center gap-2">
