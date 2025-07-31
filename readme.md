@@ -51,7 +51,7 @@ To run the portfolio locally:
 
 ## 📄 `Screenshot`
 
-![Screenshot of homepage](https://placehold.co/1200x800)
+![Screenshot of homepage](./twCssProj4.png)
 
 ## `License`
 
