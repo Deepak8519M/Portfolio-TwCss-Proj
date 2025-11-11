@@ -6,7 +6,7 @@ A modern, responsive personal portfolio website built using **`HTML5`** and **`T
 
 ## ✨ `Features`
 
-- 💻 **Fully Responsive Design** — Works across devices `(mobile, tablet, desktop)`
+- 💻 **Fully Responsive Design** — Works across Various devices `(mobile, tablet, desktop)`
 - 🧭 **Interactive Navigation** — `Simple` and `intuitive layout`
 - 🖼 **Project Showcase** — Highlight your work with `descriptions` and `visuals`
 - 📬 **Contact Section** — Reach out via clearly visible contact area `(no JS form logic)`
