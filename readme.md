@@ -41,7 +41,7 @@ To run the portfolio locally:
 
 🎨 Tailwind CSS IntelliSense: `Autocompletion` and `hover preview` of Tailwind classes.
 
-🧼 Prettier: `Code formatter` for consistent formatting.
+🧼 Prettier: `Code formatter` for Consistent Formatting.
 
 🌐 Live Server: `Auto-reload browser` on file save.
 
